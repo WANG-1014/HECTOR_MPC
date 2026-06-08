@@ -4,8 +4,10 @@
     - 📂Hector_Simulation：论文对应的库
     - 📂casadi代码库：CAS (符号代数)+AD (自动微分)，底层 C++ 编写、开源 (LGPL 协议)、面向非线性优化 + 最优控制的符号 + 自动微分科学计算库（需要下载！！！）
 
-
-
+## 效果
+| ![alt text](/README_IMG/gif_1.gif) | ![alt text](/README_IMG/gif_2.gif) |
+| :-----: | :------: |
+| 平地行走 | 崎岖路面行走 |
 ## 项目解读
 
 ### 一、Hector_Simulation/ — 核心仿真工程
